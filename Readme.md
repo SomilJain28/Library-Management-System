@@ -13,15 +13,3 @@ The Library Management System is a console-based application designed to manage 
 
 - **Programming Language**: Java
 - **Data Structures**: HashMap
-
-## Getting Started
-
-### Prerequisites
-
-- **Java Development Kit (JDK)**: Make sure you have JDK installed on your system. You can download it from [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
-
-### Installation
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/LibraryManagementSystem.git
